@@ -1,0 +1,17 @@
+{
+  "name": "Monash 丢哪儿",
+  "short_name": "丢哪儿",
+  "description": "City of Monash 垃圾分类快速查询",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f1e9",
+  "theme_color": "#234f3a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
